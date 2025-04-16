@@ -27,7 +27,7 @@
 
 ![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img4.png)
 
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img5.jpeg)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img5.png)
 
 ![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img6.png)
  
