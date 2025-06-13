@@ -18,14 +18,8 @@ Precisa de ajuda ou tem alguma dúvida? Entre em contato com nossa equipe de sup
 
 Estamos prontos para te ajudar a tirar o máximo proveito do Whaticket Saas!
 
-## 📋 Sumário
-
-- [Visão Geral](#-visão-geral)
-- [Instalação](#-instalação)
-- [Principais Funcionalidades](#-principais-funcionalidades)
-- [Funcionalidades Via API](#-funcionalidades-via-api)
-- [Demonstração](#-demonstração)
-- [Suporte](#-suporte)
+ 
+ 
 
 ## 💡 Visão Geral
 
@@ -80,7 +74,13 @@ apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.A
 - Listar Agendamento ✅
 - Excluir Agendamento ✅
 
- 
+ ## 📋 Sumário
+- [Demonstração](#-demonstração)
+- [Suporte](#-suporte)
+- [Visão Geral](#-visão-geral)
+- [Instalação](#-instalação)
+- [Principais Funcionalidades](#-principais-funcionalidades)
+- [Funcionalidades Via API](#-funcionalidades-via-api)
  
 
 
